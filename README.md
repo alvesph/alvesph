@@ -2,7 +2,7 @@
 
 ### BIO
 
-*My name is Paulo H. Alves, I have been developing my programming skills since 2018. I have been studying python and flask, javascript and react native. I have a degree in biology with experience in bioinformatics. I live in Brazil.*
+*My name is Paulo H. Alves, I have been developing my programming skills since 2018. I have been studying javascript and react. I have a degree in biology with experience in bioinformatics. I live in Brazil.*
 
 Would you like to find me?
 
