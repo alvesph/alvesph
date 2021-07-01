@@ -1,10 +1,24 @@
-## Hello !! 👋
+### Hi there, I'm [Paulo!](https://alvesph.github.io/) 👋
 
-### BIO
-
-*My name is Paulo H. Alves, I have been developing my programming skills since 2018. I have been studying javascript and react. I have a degree in biology with experience in bioinformatics. I live in Brazil.*
-
-Would you like to find me?
-
+<p align="center">
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alvesph)](https://twitter.com/alvesph)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvesph1)](https://www.linkedin.com/in/alvesph1)
+</p>
+
+<br />
+<br />
+
+### Abstract
+
+- 🔭 I’m currently working on [iam-profile](https://github.com/alvesph/iam-proflle)
+- 🌱 I’m currently learning Typescript, React JS
+- 💙 My hobbies are: Playing Basketball, Listening to podcasts and traveling. 
+
+**Languages and Tools:**  
+<p align="center">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
+</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
