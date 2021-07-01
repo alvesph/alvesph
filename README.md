@@ -24,8 +24,5 @@
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesph&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=alvesph&repo=alvesph.github.io&theme=material-palenight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=alvesph&repo=alvesph.github.io&theme=radical)
 
-<a href="https://github.com/alvesph/alvesph.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvesph&repo=alvesph.github.io&theme=material-palenight" />
-</a>
