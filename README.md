@@ -22,3 +22,6 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesph&show_icons=true&theme=radical)
+<a href="https://github.com/alvesph/alvesph.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alvesph&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
