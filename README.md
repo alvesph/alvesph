@@ -17,7 +17,7 @@
 
 ### Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesph&theme=radical)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alvesph&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alvesph&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=alvesph&repo=alvesph.github.io&theme=radical)
 
