@@ -5,15 +5,14 @@
 
 ### Abstract
 
-- 🔭 I’m currently working on [iam-profile](https://github.com/alvesph/iam-proflle)
-- 🌱 I’m currently learning Typescript, React JS
+- 🔭 At the moment I'm working with integration systems.
+- 🌱 I’m currently deepening my knowledge in NodeJs, Typescript, Microsservices
 - 💙 My hobbies are: Playing Basketball, Listening to podcasts and traveling. 
 
 ### Languages and Tools
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 
 ### Stats
 
